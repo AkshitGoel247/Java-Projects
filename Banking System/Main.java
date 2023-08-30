@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
 //        This is reference to database
+//        Create your own database and change the following values with yours        
         String url = "jdbc:mysql://127.0.0.1:3306/Java_BankingSystem";
         String username = "root";
         String password = "";
